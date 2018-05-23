@@ -1,0 +1,12 @@
+[submodule "droolsjbpm-knowledge"]
+	path = droolsjbpm-knowledge
+	url = https://github.com/evacchi/droolsjbpm-knowledge
+[submodule "drools"]
+	path = drools
+	url = https://github.com/evacchi/drools
+[submodule "jbpm"]
+	path = jbpm
+	url = https://github.com/evacchi/jbpm
+[submodule "kie-wb-common"]
+	path = kie-wb-common
+	url = https://github.com/evacchi/kie-wb-common
