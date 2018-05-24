@@ -10,3 +10,6 @@
 [submodule "kie-wb-common"]
 	path = kie-wb-common
 	url = https://github.com/evacchi/kie-wb-common
+[submodule "jbpm-workitems-email-typed"]
+	path = jbpm-workitems-email-typed
+	url = https://github.com/evacchi/jbpm-workitems-email-typed
